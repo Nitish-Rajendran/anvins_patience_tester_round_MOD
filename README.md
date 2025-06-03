@@ -27,7 +27,7 @@ This Python script monitors a specified WhatsApp group using **Selenium** and au
 
 ```bash
 git clone https://github.com/Nitish-Rajendran/anvins_patience_tester_round_MOD
-cd yourrepo
+cd anvins_patience_tester_round_MOD
 ```
 ### 2. Install Dependencies
 ```bash
