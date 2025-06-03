@@ -1,4 +1,4 @@
-# 📞 WhatsApp Group Monitor with Twilio Voice Call Alerts
+u# 📞 WhatsApp Group Monitor with Twilio Voice Call Alerts
 
 This Python script monitors a specified WhatsApp group using **Selenium** and automatically triggers a **Twilio voice call** when a new message appears. It's perfect for critical alerting systems where WhatsApp activity requires instant attention.
 
@@ -58,8 +58,9 @@ In auto.py, set your group name:
 
 ```bash
 GROUP_NAME = "Your WhatsApp Group Name"
-Ensure it matches the name exactly as it appears in WhatsApp Web.
 ```
+
+Ensure it matches the name exactly as it appears in WhatsApp Web.
 
 ---
 
