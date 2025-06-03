@@ -111,5 +111,3 @@ This project is open-source and available under the MIT License.
 If you encounter issues or have feature requests, feel free to open an issue.
 
 
-
-half of this is okay but include ``` or ## or - wherever included sso the readme looks good and response as a .txt file
